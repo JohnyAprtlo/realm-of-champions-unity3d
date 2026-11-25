@@ -1,0 +1,53 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+Assets/AssetStoreTools*
+
+# Exclude unused demo terrain data >100MB (exceeds GitHub file limit)
+Assets/FlipGameDev/Terrain&GrassPack/Demo/
+Assets/FlipGameDev/Terrain&GrassPack/Demo.meta
+Assets/FlipGameDev/Terrain&GrassPack/Terrain_Settings/
+Assets/FlipGameDev/Terrain&GrassPack/Terrain_Settings.meta
+
+# Visual Studio / Rider / VS Code cache files
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Crashlytics & OS junk
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+.DS_Store
+Thumbs.db
